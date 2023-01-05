@@ -18,6 +18,10 @@ packages:
   - wireguard
   - luci-app-eqos
   - wireguard-tools
+  - luci-app-shadowscoks
+  - luci-app-frpc
+  - luci-app-v2ray
+    
 
 
 
